@@ -1,0 +1,2 @@
+class testFunctionBase(object):
+	
